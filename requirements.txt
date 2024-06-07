@@ -1,0 +1,7 @@
+mss==6.1.0
+pytesseract==0.3.10
+googletrans==4.0.0-rc1
+Pillow==8.1.0
+tk
+fire==0.4.0
+pykakasi==2.1.1
